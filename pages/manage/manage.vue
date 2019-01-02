@@ -1,6 +1,6 @@
 <template>
  	<view>
- 		<navbar>1515</navbar>
+ 		<navbar></navbar>
  	</view>
  </template>
  
