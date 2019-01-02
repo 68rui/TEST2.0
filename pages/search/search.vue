@@ -1,6 +1,6 @@
 <template>
  	<view>
- 		<drawer>515</drawer>
+ 		<drawer></drawer>
  	</view>
  </template>
  
